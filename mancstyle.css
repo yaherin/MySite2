@@ -27,7 +27,7 @@
 
 .storep1 {
     position: relative;
-    display: inline-block;
+    display: flex;
     float: right;
     background-color: rgb(255, 169, 77);
     margin: 5px;
@@ -58,7 +58,7 @@
 
 .storep2 {
     position: relative;
-    display: inline-block;
+    display: flex;
     float: left;
     background-color: rgb(255, 169, 77);
     margin: 5px;
